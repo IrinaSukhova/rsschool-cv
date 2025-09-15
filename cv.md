@@ -27,3 +27,27 @@ OS/Platforms: Windows OS, macOS, iOS, Android
 * Testing Mobile and Web-based applications, designed by Company
 * Analysis requirements, specifications, and documentation for new projects
 * Reviewed of Documents like Software requirement Specification, Rapid Design Document, High Level Design, Detail Design Document, Acceptance Test Cases, Integration Test Cases, etc.
+
+#### CODE EXAMPLES
+```
+public class Pattern {
+   public static void main(String[] args) {
+       int rows = 3;
+       for (int i = 0; i < rows; i++) {
+           for (int j = 0; j < rows - i - 1; j++) {
+               System.out.print("  ");
+           }
+           for (int k = 0; k < 2 * i + 1; k++) {
+               System.out.print("* ");
+           }
+           System.out.println();
+        }
+     }   
+   }
+```
+#### EDUCATION
+Bachelor’s degree in software engineering, State University, Moscow, Russia
+
+#### LANGUAGES
+* Russian - nativa speaker
+* English - B1
